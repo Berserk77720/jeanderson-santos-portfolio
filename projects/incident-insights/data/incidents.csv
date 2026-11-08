@@ -1,0 +1,7 @@
+id,category,priority,status
+INC-001,network,high,resolved
+INC-002,server,critical,resolved
+INC-003,access,low,closed
+INC-004,network,medium,investigating
+INC-005,database,high,resolved
+INC-006,server,low,closed
