@@ -1,0 +1,13 @@
+# Personal, private or generated documents
+private/
+_private/
+*.env
+.env*
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pem
+*.key
+*.sqlite3
+.DS_Store
+Thumbs.db
